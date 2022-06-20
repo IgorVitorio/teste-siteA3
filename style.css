@@ -70,6 +70,7 @@ button, input{
 #searchContainer button:hover{
     background-color: rgb(82, 136, 0);
     color: white;
+    cursor: pointer;
 }
 
 #weatherMain{
